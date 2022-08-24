@@ -1,0 +1,35 @@
+body{
+    width: 80%;
+    background-color: orangered;
+    display: block;
+    
+}
+.cuadrado
+{
+    width: 200px;
+    height: 200px;
+    background-color:cadetblue;
+    margin-bottom: 20px;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    text-align: center;
+    justify-items: center;
+    justify-content: space-between;
+}
+.cuadrado1{
+    width: 200px;
+    height: 200px;
+    background-color:cadetblue;
+    margin-bottom: 20px;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    text-align: center;
+    justify-items: center;
+    justify-content: space-between;
+}
